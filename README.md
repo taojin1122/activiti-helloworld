@@ -1,5 +1,5 @@
 # activiti-helloworld
-# 新手入门Activit6.0 ----HelloWorld
+# 新手入门Activit6.0----HelloWorld
 
 #####  使用Eclipse进行流程图绘制
  eclipse上安装activiti的插件，进行绘制流程图。
